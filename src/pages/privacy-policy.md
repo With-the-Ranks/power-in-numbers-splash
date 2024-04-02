@@ -1,6 +1,6 @@
 ---
 layout: '../layouts/Layout.astro'
-title: 'Provacy Policy'
+title: 'Privacy Policy'
 ---
 
 <div class="py-0 px-5 sm:py-10 sm:px-10">
