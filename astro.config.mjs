@@ -5,7 +5,7 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://powerinnumbers.us',
-  base: '/',
+  base: '/power-in-numbers-splash',
   integrations: [mdx(), tailwind({
     nesting: true
   })],
