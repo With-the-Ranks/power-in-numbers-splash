@@ -1,0 +1,9 @@
+/* Global CSS Styles
+
+Styles that should apply everywhere should go here.
+
+Component styles should be inined directly on the component.
+
+Right now we're not using any preprocessors, just CSS variables, but Tailwind is available and nesting is enabled through Astro.
+
+*/

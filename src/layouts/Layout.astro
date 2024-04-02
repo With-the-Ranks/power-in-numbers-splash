@@ -1,0 +1,43 @@
+---
+import "../styles/main.css";
+
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en" data-theme="dark">
+	<head>
+		<meta charset="UTF-8" />
+		<!-- Primary Meta Tags -->
+		<title>Power in Numbers</title>
+		<meta name="title" content="Power in Numbers" />
+		<meta name="description" content="Power in Numbers" />
+
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://powerinnumbers.us" />
+		<meta property="og:title" content="Power in Numbers" />
+		<meta property="og:description" content="Power in Numbers" />
+		<meta property="og:image" content="/assets/meta.png" />
+
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content="https://powerinnumbers.us" />
+		<meta property="twitter:title" content="Power in Numbers" />
+		<meta property="twitter:description" content="Power in Numbers." />
+		<meta property="twitter:image" content="/assets/meta.png" />
+
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body>
+		<slot />
+
+	</body>
+</html>
