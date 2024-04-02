@@ -2,18 +2,19 @@
 import Layout from "../layouts/Layout.astro";
 ---
 
+<!-- TODO: Mobile tweaks -->
 <Layout title="Home">
 	<div class="animate__animated animate__fadeIn">
 		<header>
 			<h1>
 				<img
-					class="w-100 rounded-lg my-5"
+					class="w-100 sm:rounded-lg my-5"
 					src="assets/banner.png"
 					alt="Power in Numbers"
 				/>
 			</h1>
 		</header>
-		<main class="py-10 px-10">
+		<main class="py-0 px-5 sm:py-10 sm:px-10">
 			<h2>
 				We supercharge change efforts in the South and Southwest and
 				level up campaigns that reach millions to win for workers
@@ -23,8 +24,9 @@ import Layout from "../layouts/Layout.astro";
 			<p>
 				At Power in Numbers, we know workers and their communities don't
 				get power through backroom deals, big campaign contributions, or
-				being related to someone in office. <strong>We get power when we get
-				together.</strong>
+				being related to someone in office. <strong
+					>We get power when we get together.</strong
+				>
 			</p>
 
 			<p>

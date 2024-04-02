@@ -38,7 +38,7 @@ body {
     content: "";
     position: absolute;
     height: 100%;
-    left:0;
+    left: 0;
     right: 0;
     bottom: 0;
     background-image: url("/power-in-numbers-splash/assets/wavy-lines.svg");
@@ -99,5 +99,31 @@ a {
     font-weight: 800;
     text-underline-offset: 0.3rem;
     text-decoration-thickness: .25rem;
+  }
+}
+
+/* Mobile Tweaks */
+@media (max-width: 640px) {
+  nav {
+    justify-content: center;
+    display: flex !important;
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    line-height: 1.25;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+  }
+
+  p {
+    font-size: 1rem;
   }
 }

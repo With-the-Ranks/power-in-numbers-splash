@@ -3,6 +3,8 @@ layout: '../layouts/Layout.astro'
 title: 'Provacy Policy'
 ---
 
+<div class="py-0 px-5 sm:py-10 sm:px-10">
+
 ## User Consent
 By accessing or otherwise using Power In Numbers Alerts, you agree to the terms and conditions of this Privacy Policy you expressly consent to the processing of your Personal Information and Anonymous Information according to this Privacy Policy. Your Personal Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding the processing of Personal Information may be less stringent than the laws in your country.
 
@@ -60,3 +62,4 @@ We are committed to protecting the security of your Personal Information. We use
 Contact and Revisions
 
 If you have questions or concerns about our Privacy Policy, please contact us at: <a href="mailto:info@powerinnumbers.org">info@powerinnumbers.org</a>. This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using Power In Numbers Alerts. Continued use of Power In Numbers Alerts following notice of any such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
+</div>
