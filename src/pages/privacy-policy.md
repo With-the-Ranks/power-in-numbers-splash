@@ -5,6 +5,8 @@ title: 'Provacy Policy'
 
 <div class="py-0 px-5 sm:py-10 sm:px-10">
 
+# Privacy Policy
+
 ## User Consent
 By accessing or otherwise using Power In Numbers Alerts, you agree to the terms and conditions of this Privacy Policy you expressly consent to the processing of your Personal Information and Anonymous Information according to this Privacy Policy. Your Personal Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding the processing of Personal Information may be less stringent than the laws in your country.
 
@@ -53,11 +55,11 @@ We offer you choices regarding the collection, use, and sharing of your Personal
 Despite your indicated email preferences, we may send you administrative emails regarding Power In Numbers Alerts, including, for example, administrative confirmations, and notices of updates to our Privacy Policy if we choose to provide such notices to you in this manner.
 
 You may change any of your profile information by editing it in the profile settings page. You may request deletion of your Personal Information by contacting us at <a href="mailto:info@powerinnumbers.org">info@powerinnumbers.org</a>, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request, only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives.
-Feedback
 
+## Feedback
 If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy. You agree that any such comments and any email we receive becomes our property. We may use feedback for marketing purposes or to add to or modify our services without paying any royalties or other compensation to you.
-Security
 
+## Security
 We are committed to protecting the security of your Personal Information. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. Even though we have taken significant steps to protect your Personal Information, no company, including us, can fully eliminate security risks associated with Personal Information.
 Contact and Revisions
 
