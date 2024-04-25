@@ -102,6 +102,12 @@ a {
   }
 }
 
+ol {
+  list-style: number;
+  font-size: 1.25rem;
+  padding-left: 2rem;
+}
+
 /* Mobile Tweaks */
 @media (max-width: 640px) {
   nav {
